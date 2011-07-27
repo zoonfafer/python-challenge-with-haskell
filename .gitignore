@@ -1,0 +1,11 @@
+.*.swp
+*~
+.svn
+*.o
+*.hi
+*.pyc
+*.pdf
+*.out
+*.log
+*.class
+.~lock.*#
