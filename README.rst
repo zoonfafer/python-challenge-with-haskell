@@ -5,9 +5,11 @@
 Introduction
 ------------
 
-``python-challenges-with-haskell`` is a project that aims to complete all 
-Python challenges (TODO: add link) using the language Haskell.
+``python-challenges-with-haskell`` is a project that aims to complete
+all `Python challenges`__ using the language Haskell_.
 
+.. __: http://www.pythonchallenge.com/
+.. _Haskell: http://haskell.org
 
 Licence
 -------
